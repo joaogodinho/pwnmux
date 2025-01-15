@@ -1,6 +1,6 @@
 # pwnmux
 
-A `gdbinit` configuration that uses pwndbg and tmux to create multiple panes for different contexts, making debugging a more enjoying experience.
+A `gdbinit` configuration that uses pwndbg and tmux to create multiple panes for different contexts, making debugging a more enjoyable experience.
 
 For a more detailed explaination on how to use and modify the layout, check my blogpost about it [here](https://blog.jcfg.re/posts/pwndbg-tmux/).
 
